@@ -16,7 +16,7 @@ body {
 
 
 #nav-bar {
-  padding: 0 0 0.5rem;
+  padding: 0 100px 0.5rem 0;
   background-color: #1F4287;
   font-size: 12px;
   letter-spacing: 5px;
